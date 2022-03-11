@@ -1,0 +1,18 @@
+{
+  "name": "jsdll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  },
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
