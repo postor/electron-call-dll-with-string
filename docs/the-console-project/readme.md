@@ -18,7 +18,7 @@
 
 添加代码
 
-[](../../dll_project/ConsoleApplication1/ConsoleApplication1.cpp)
+[ConsoleApplication1.cpp](../../dll_project/ConsoleApplication1/ConsoleApplication1.cpp)
 
 修改dll路径
 ![1](./code.png)
