@@ -7,14 +7,14 @@
 using namespace std;
 using std::string;
 
-typedef char* (*MyAdd)(char * x, char* y);
+typedef char* (*MyAdd)(const char * x,const char* y);
 
 int main()
 {
 
 	HMODULE hmod = NULL;
 
-	hmod = ::LoadLibrary("D:\\study\\vs\\Dll1\\Debug\\Dll1.dll"); //load dll
+	hmod = ::LoadLibrary("D:\\study\\electron-call-dll-with-string\\dll_project\\x64\\Debug\\Dll1.dll"); //load dll
 	if (hmod == NULL) {
 		printf("load MyDLL.dll failed!");
 		return 0;

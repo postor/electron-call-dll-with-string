@@ -3,6 +3,10 @@
 calling functions with string param/return in dll with electronjs 
 在 electronjs 中调用带有字符串参数/返回值的 dll 函数
 
+手把手教程
+- [创建dll](./docs/the-dll-project/readme.md)
+- [控制台验证](./docs/the-console-project/readme.md)
+- [electron 项目](./docs/the-electron-project/readme.md)
 
 ## 文件结构
 
