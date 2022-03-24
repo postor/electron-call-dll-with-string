@@ -43,3 +43,9 @@ cp /path/to/dll ./
 ```
 yarn start
 ```
+
+导出 exe
+
+```
+yarn electron-packager . --overwrite --platform=win32 --arch=x64
+```

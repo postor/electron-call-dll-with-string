@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^17.1.2"
+    "electron": "^17.1.2",
+    "electron-packager": "^15.4.0"
   },
   "dependencies": {
     "ffi-napi": "^4.0.3"
